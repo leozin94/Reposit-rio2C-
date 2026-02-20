@@ -3,3 +3,10 @@ body{
     background-color:#808080 ;
     color: cadetblue;
 }
+
+
+.expedition{
+
+    display: flex;
+    font-size: medium;
+}
